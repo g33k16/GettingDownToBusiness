@@ -11,21 +11,21 @@ namespace Business
         //public abstract bool Checkout();
         //public abstract void Edit();
 
-        protected string Name;
-        protected string Description;
+        public string Name;
+        public string Description;
     }
 
     class Item : Product 
     {
-        private string PartNumber;
-        private double Price;
-        private int OnHand = 0;
+        public string PartNumber;
+        public double Price;
+        public int OnHand = 0;
         //private Brand Brand;
     }
 
     class Service : Product
     {
-        private double Price;
+        public double Price;
     }
 
     class Rental : Product
@@ -34,21 +34,21 @@ namespace Business
         //public Rental();
         //public bool Return();
 
-        private double Hourly;
-        private double FourHours;
-        private double Daily;
-        private double Weekly;
+        public double Hourly;
+        public double FourHours;
+        public double Daily;
+        public double Weekly;
 
-        private bool OnHand = true;
-        private Client CurrentRenter = null;
-        //rental history
+        public bool OnHand = true;
+        public Client CurrentRenter = null;
+        public Client[] RecentRenters = {null,null};
 
     }
 
     class Repair : Product
     {
-        //private Item[] PartsUsed;
-        //private string[] ServiceRecord;
-        private double Hours = 0;
+        public List<Item> PartsUsed;
+        public List<string> ServiceRecord;
+        public double Hours = 0;
     }
 }
