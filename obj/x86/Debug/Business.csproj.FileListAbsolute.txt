@@ -1,0 +1,8 @@
+C:\Users\Aidan\Documents\Visual Studio 2010\Projects\C#\Business\Business\bin\Debug\Business.exe
+C:\Users\Aidan\Documents\Visual Studio 2010\Projects\C#\Business\Business\bin\Debug\Business.pdb
+C:\Users\Aidan\Documents\Visual Studio 2010\Projects\C#\Business\Business\obj\x86\Debug\Business.Main.resources
+C:\Users\Aidan\Documents\Visual Studio 2010\Projects\C#\Business\Business\obj\x86\Debug\Business.Properties.Resources.resources
+C:\Users\Aidan\Documents\Visual Studio 2010\Projects\C#\Business\Business\obj\x86\Debug\Business.csproj.GenerateResource.Cache
+C:\Users\Aidan\Documents\Visual Studio 2010\Projects\C#\Business\Business\obj\x86\Debug\Business.exe
+C:\Users\Aidan\Documents\Visual Studio 2010\Projects\C#\Business\Business\obj\x86\Debug\Business.pdb
+C:\Users\Aidan\Documents\Visual Studio 2010\Projects\C#\Business\Business\obj\x86\Debug\Business.csprojResolveAssemblyReference.cache
